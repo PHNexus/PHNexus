@@ -3,11 +3,7 @@
 <div align="center">
     <img class="bordered-image" src="welcome.gif" alt="welcome banner" width="600">
 </div>
-<style>
-    .bordered-image {
-        border: 1px solid black;
-    }
-</style>
+
 
 
 <p align="center">
