@@ -1,6 +1,6 @@
 # Hi, I'm Nexus :wave:
 
-<<<<<<< HEAD
+
 <div style="text-align:center;">
     <img width="350" src="welcome.gif" alt="welcome banner">
     <style>
@@ -11,9 +11,7 @@
             box-shadow: 2px 2px 5px #888888;
         }
     </style>
-=======
 
->>>>>>> a7fae8fbea28731c8dd6c5834723e280c3d6c748
 
 Software engineering student and aspiring software entrepreneur  
 interested in building fun, interactive, and beautiful experiences  
