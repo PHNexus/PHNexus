@@ -10,12 +10,16 @@
 </style>
 
 
-
-Software engineering student and aspiring software entrepreneur  
+<p align="center">
+    <b>Software engineering student and aspiring software entrepreneur  
                     interested in building fun, interactive, and beautiful experiences  
                               for the Web (graphics ◆ games ◆ websites ◆ creative coding).
 
 Obsessed with performance and clean code.
+       
+</b>
+</p>
+
 
 ## Life
 
