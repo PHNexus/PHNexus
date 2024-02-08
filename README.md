@@ -1,7 +1,6 @@
 # Hi, I'm Nexus :wave:
 
 
- 
 <div>
 
 <img align="center" width="350" src="welcome.gif" alt="welcome banner">
