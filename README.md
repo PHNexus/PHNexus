@@ -22,7 +22,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: https://mail.google.com/contatonexustr@gmail.com"/>
+    <a href = "mailto: work.luigi.marcostrup10@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/marcos-vinicius-86706b262/">
@@ -36,4 +36,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/PHNexus/PHNexus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
