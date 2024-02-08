@@ -1,4 +1,4 @@
-# Hi, I'm Zach :wave:
+# Hi, I'm Nexus :wave:
 
 Computer science student and aspiring software entrepreneur  
 interested in building fun, interactive, and beautiful experiences  
@@ -10,20 +10,13 @@ Obsessed with performance and clean code.
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
-:shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
-:shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
-:shipit: ex-Android @ [**Taperk**][taperk]  
-:shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**Abyss Inc.**][abyss]  
-:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
-:shipit: Open-source enthusiast year-round (3400+ contributions)
+:shipit: Friend Programmer @ https://www.linkedin.com/in/helber-cardoso-a11a53216/
 
-[42tm]: https://github.com/42tm
-[abyss]: https://github.com/abyss-inc
-[ur]: https://rochester.edu
-[siggraph]: https://siggraph.org
-[taperk]: https://taperk.com
-[roclab]: https://roclab.io
+:shipit: Student Member @ https://www.cursoemvideo.com/    
+
+ 
+
+
 
 ## Skills
 
@@ -41,11 +34,14 @@ Obsessed with performance and clean code.
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
-_Favorite programming language: Rust :crab:._  
+_Favorite programming language: JavaScript :crab:._  
 _Fun tidbits: My side interests are :paintbrush: graphics design, :man_dancing:
 breakdancing, and :skateboard: skateboarding._
-
-### Software
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="right" height="160" alt="coding-time" src="code.gif">
+   <br>
+<b>#Software</b>
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
@@ -58,7 +54,7 @@ breakdancing, and :skateboard: skateboarding._
 
 <p align="center">
     <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
+        <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">Let's connect and talk!</a>
     </b>
 </p>
 
@@ -68,34 +64,24 @@ breakdancing, and :skateboard: skateboarding._
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>-->
 
-<a href="mailto:duongnguyen18@siggraph.org">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-</a>
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
+
+<a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://twitter.com/zach_duong">
+<a href="https://twitter.com/UnoPedrin">
     <img height="32" align="left" alt="X" src="img/icons/x.png" />
 </a>
 
-<a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
-</a>
 
-<a href="https://www.buymeacoffee.com/cszach">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
+ <a href = "https://www.youtube.com/@nexuszx_ofc">
+      <img width="35" src="youtube.svg">
+    </a>
 
-<a href="https://liberapay.com/cszach">
-    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
 
-<a href="https://www.instagram.com/thechonkypenguin">
+<a href="https://www.instagram.com/nexuszx_ofc">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
-<a href="https://dribbble.com/cszach">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
-</a>
+
