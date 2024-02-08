@@ -1,7 +1,7 @@
 # Hi, I'm Nexus :wave:
 
 <div align="center">
-    <img src="welcome.gif" alt="welcome banner" width="350">
+    <img src="welcome.gif" alt="welcome banner" width="600">
 </div>
 
 
