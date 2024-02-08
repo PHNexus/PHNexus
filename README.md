@@ -22,7 +22,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto:contatonexustr@gmail.com">
+    <a href = "mailto": contatonexustr@gmail.com>
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/marcos-vinicius-86706b262/">
