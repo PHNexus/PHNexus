@@ -23,7 +23,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.marcostrup10@gmail.com">
+    <a href = "mailto: marcostrup10@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/marcos-vinicius-86706b262/">
