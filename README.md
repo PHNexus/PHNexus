@@ -1,7 +1,15 @@
 # Hi, I'm Nexus :wave:
 
- <img align="center"  width="350" src="welcome.gif" alt="welcome banner">
-
+<div style="text-align:center;">
+    <img width="350" src="welcome.gif" alt="welcome banner">
+    <style>
+        /* Estilos personalizados para a imagem */
+        img {
+            border: 2px solid #000;
+            border-radius: 10px;
+            box-shadow: 2px 2px 5px #888888;
+        }
+    </style>
 
 Software engineering student and aspiring software entrepreneur  
 interested in building fun, interactive, and beautiful experiences  
