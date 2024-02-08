@@ -1,6 +1,6 @@
 # Hi, I'm Nexus :wave:
 
- <img align="center"  width="350" src="welcome.gif" alt="welcome banner">
+ <img align="center"  width="100%" src="welcome.gif" alt="welcome banner">
 
 
 Software engineering student and aspiring software entrepreneur  
