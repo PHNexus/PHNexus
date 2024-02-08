@@ -1,16 +1,7 @@
 # Hi, I'm Nexus :wave:
 
-
-<div style="text-align:center;">
-    <img width="350" src="welcome.gif" alt="welcome banner">
-    <style>
-        img {
-            border: 2px solid #000;
-            border-radius: 10px;
-            box-shadow: 2px 2px 5px #888888;
-        }
-    </style>
 <img width="350" src="welcome.gif" alt="welcome banner">
+ 
     
     
 
