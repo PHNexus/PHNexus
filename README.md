@@ -1,4 +1,4 @@
-# Hi, I'm Zach :wave:
+# Hi, I'm Nexus :wave:
 
 Computer science student and aspiring software entrepreneur  
 interested in building fun, interactive, and beautiful experiences  
@@ -11,19 +11,11 @@ Obsessed with performance and clean code.
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
 :shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
-:shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
-:shipit: ex-Android @ [**Taperk**][taperk]  
-:shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**Abyss Inc.**][abyss]  
-:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
-:shipit: Open-source enthusiast year-round (3400+ contributions)
+:shipit: Student Member @ https://www.cursoemvideo.com/    
 
-[42tm]: https://github.com/42tm
-[abyss]: https://github.com/abyss-inc
-[ur]: https://rochester.edu
-[siggraph]: https://siggraph.org
-[taperk]: https://taperk.com
-[roclab]: https://roclab.io
+ 
+
+
 
 ## Skills
 
