@@ -39,9 +39,9 @@ _Fun tidbits: My side interests are :paintbrush: graphics design, :man_dancing:
 breakdancing, and :skateboard: skateboarding._
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="top" height="160" alt="coding-time" src="code.gif">
+    <img align="bottom" height="160" alt="coding-time" src="code.gif">
    <br>
-### Software
+<b>#Software</b>
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
