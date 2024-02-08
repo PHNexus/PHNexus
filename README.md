@@ -14,7 +14,7 @@ Obsessed with performance and clean code.
 
 :shipit: Student Member @ https://www.cursoemvideo.com/    
 
-:shipit: Cyber Security @ discord.com/invite/kXbCc3WwvC
+:shipit: Cyber Security @ https://discord.com/invite/kXbCc3WwvC/
 
 :shipit: Developer community Br @ https://discord.gg/code-help-1094407116946685992
 
