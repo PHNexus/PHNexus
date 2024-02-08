@@ -40,6 +40,7 @@ breakdancing, and :skateboard: skateboarding._
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="top" height="160" alt="coding-time" src="code.gif">
+   <br>
 ### Software
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
