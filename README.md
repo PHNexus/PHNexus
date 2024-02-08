@@ -19,7 +19,7 @@ Obsessed with performance and clean code.
 
 :shipit: Developer community Br @ https://discord.gg/code-help-1094407116946685992
 
-:shipit: Purpose of living in Japan 
+:shipit: Purpose of living in Japan  @ Tokyo
 
 
 
