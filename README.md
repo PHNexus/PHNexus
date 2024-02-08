@@ -37,5 +37,5 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/PHNexus/PHNexus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luigiGIF/luigiGIF/blob/output/github-contribution-grid-snake.svg)
 
