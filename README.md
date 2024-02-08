@@ -34,7 +34,7 @@ Obsessed with performance and clean code.
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
-_Favorite programming language: Rust :crab:._  
+_Favorite programming language: JavaScript :crab:._  
 _Fun tidbits: My side interests are :paintbrush: graphics design, :man_dancing:
 breakdancing, and :skateboard: skateboarding._
 
