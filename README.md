@@ -1,6 +1,6 @@
 # Hi, I'm Nexus :wave:
 
-Computer science student and aspiring software entrepreneur  
+Software engineering student and aspiring software entrepreneur  
 interested in building fun, interactive, and beautiful experiences  
 for the Web (graphics ◆ games ◆ VR ◆ creative coding).
 
