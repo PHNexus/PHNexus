@@ -1,5 +1,8 @@
 # Hi, I'm Nexus :wave:
 
+ <img align="center"  width="350" src="welcome.gif" alt="welcome banner">
+
+
 Software engineering student and aspiring software entrepreneur  
 interested in building fun, interactive, and beautiful experiences  
 for the Web (graphics ◆ games ◆ websites ◆ creative coding).
