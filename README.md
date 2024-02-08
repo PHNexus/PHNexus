@@ -51,7 +51,7 @@ breakdancing, and :skateboard: skateboarding._
 
 <p align="center">
     <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
+        <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">Let's connect and talk!</a>
     </b>
 </p>
 
@@ -61,34 +61,22 @@ breakdancing, and :skateboard: skateboarding._
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>-->
 
-<a href="mailto:duongnguyen18@siggraph.org">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-</a>
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
+
+<a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://twitter.com/zach_duong">
+<a href="https://twitter.com/UnoPedrin">
     <img height="32" align="left" alt="X" src="img/icons/x.png" />
 </a>
 
-<a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
-</a>
 
-<a href="https://www.buymeacoffee.com/cszach">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
 
-<a href="https://liberapay.com/cszach">
-    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
 
-<a href="https://www.instagram.com/thechonkypenguin">
+
+<a href="https://www.instagram.com/nexuszx_ofc">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
-<a href="https://dribbble.com/cszach">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
-</a>
+
