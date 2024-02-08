@@ -13,13 +13,15 @@ Obsessed with performance and clean code.
 
 :shipit: Student Member @ https://www.cursoemvideo.com/
 
-:shipit: Friend Programmer @ https://www.linkedin.com/in/helber-cardoso-a11a53216/
 
 :shipit: Cyber Security @ https://discord.com/invite/kXbCc3WwvC/
 
+:shipit: Purpose of living in Japan  @ Tokyo
+
 :shipit: Developer community Br @ https://discord.gg/code-help-1094407116946685992
 
-:shipit: Purpose of living in Japan  @ Tokyo
+:shipit: Friend Programmer @ https://www.linkedin.com/in/helber-cardoso-a11a53216/
+
 
 
 
