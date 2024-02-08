@@ -8,6 +8,7 @@
         border: 1px solid black;
     }
 </style>
+![Descrição da imagem](/home/takashi/txt/LuigiGf/PHNexus/welcome.gif){: .bordered-image }
 
 
 <p align="center">
