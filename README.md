@@ -14,7 +14,12 @@ Obsessed with performance and clean code.
 
 :shipit: Student Member @ https://www.cursoemvideo.com/    
 
- 
+ [42tm]: https://github.com/42tm
+[abyss]: https://github.com/abyss-inc
+[ur]: https://rochester.edu
+[siggraph]: https://siggraph.org
+[taperk]: https://taperk.com
+[roclab]: https://roclab.io
 
 
 
