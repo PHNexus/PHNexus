@@ -72,7 +72,9 @@ breakdancing, and :skateboard: skateboarding._
 </a>
 
 
-
+ <a href = "https://www.youtube.com/@nexuszx_ofc">
+      <img width="35" src="youtube.svg">
+    </a>
 
 
 <a href="https://www.instagram.com/nexuszx_ofc">
