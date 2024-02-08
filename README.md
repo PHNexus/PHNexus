@@ -39,7 +39,7 @@ _Fun tidbits: My side interests are :paintbrush: graphics design, :man_dancing:
 breakdancing, and :skateboard: skateboarding._
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="bottom" height="160" alt="coding-time" src="code.gif">
+    <img align="right" height="160" alt="coding-time" src="code.gif">
    <br>
 <b>#Software</b>
 
