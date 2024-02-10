@@ -23,16 +23,21 @@ Obsessed with performance and clean code.
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
 
-:shipit: Student Member @ https://www.cursoemvideo.com/
+:shipit: Student Member @ 
+https://www.cursoemvideo.com/
 
 
-:shipit: Cyber Security @ https://discord.com/invite/kXbCc3WwvC/
+:shipit: Cyber Security @ 
+https://discord.com/invite/kXbCc3WwvC/
 
-:shipit: Purpose of living in Japan  @ https://maps.app.goo.gl/5brY5aGyBB7NxsQA7
+:shipit: Purpose of living in Japan  @ 
+https://maps.app.goo.gl/5brY5aGyBB7NxsQA7
 
-:shipit: Developer community Br @ https://discord.gg/code-help-1094407116946685992
+:shipit: Developer community Br @ 
+https://discord.gg/code-help-1094407116946685992
 
-:shipit: Friend Programmer @ https://www.linkedin.com/in/helber-cardoso-a11a53216/
+:shipit: Friend Programmer @ 
+https://www.linkedin.com/in/helber-cardoso-a11a53216/
 
 
 
