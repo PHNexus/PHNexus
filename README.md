@@ -30,8 +30,6 @@ https://www.cursoemvideo.com/
 :shipit: Cyber Security @ 
 https://discord.com/invite/kXbCc3WwvC/
 
-:shipit: Purpose of living in Japan  @ 
-https://maps.app.goo.gl/5brY5aGyBB7NxsQA7
 
 :shipit: Developer community Br @ 
 https://discord.gg/code-help-1094407116946685992
