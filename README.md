@@ -89,16 +89,16 @@ breakdancing, and :skateboard: skateboarding._
 
 
 <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
-    <img height="32" align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    <img height="32" align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/UnoPedrin">
-    <img height="32" align="left" alt="X" src="img/icons/x.png" />
+    <img height="32" align="left" alt="X" src="[img/icons/x.png](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)" />
 </a>
 
 
 <a href="https://www.instagram.com/nexuszx_ofc">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="32" align="left" alt="Instagram" src="[img/icons/instagram.png](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
 
