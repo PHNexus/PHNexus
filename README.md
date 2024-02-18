@@ -81,7 +81,10 @@ breakdancing, and :skateboard: skateboarding._
 </a>-->
 
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+<a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/"></a>
 
+)
 <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
