@@ -54,6 +54,7 @@ https://www.linkedin.com/in/helber-cardoso-a11a53216/
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 _Favorite programming language: JavaScript :crab:._  
 _Fun tidbits: My side interests are :paintbrush: graphics design, :man_dancing:
