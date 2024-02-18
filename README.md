@@ -95,6 +95,6 @@ breakdancing, and :skateboard: skateboarding._
     <img height="32" align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://twitter.com/UnoPedrin">
-    <img height="32" align="left" alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+    <img height="32" align="left" alt="X" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 
