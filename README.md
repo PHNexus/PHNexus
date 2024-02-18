@@ -64,6 +64,7 @@ breakdancing, and :skateboard: skateboarding._
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
 <p align="center">
