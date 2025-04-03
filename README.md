@@ -45,8 +45,8 @@ https://www.linkedin.com/in/helber-cardoso-a11a53216/
 ## Skills
 
 
-
-![C#](https://img.shields.io/badge/-C%23-000000?logo=dotnet)
+<img align="" alt="C#" width="350" src="https://img.shields.io/badge/-C%23-000000?logo=dotnet" />
+![C#](https://img.shields.io/badge/-C%23-000000?logo=dotnet) 
 ![.Net](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
