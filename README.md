@@ -28,10 +28,8 @@ Obsessed with performance and clean code.
   <img src="https://skillicons.dev/icons?i=java,cs,ts,js,html,css,py,docker," />
 </p>
 
+
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
-
-
-
 
 
 _Favorite programming language: JavaScript :crab:._  
