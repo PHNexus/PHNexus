@@ -28,14 +28,11 @@ https://www.cursoemvideo.com/
 
 
 :shipit: Cyber Security @ 
-https://discord.com/invite/kXbCc3WwvC/
+https://discord.gg/ryn7XtqE
 
 
 :shipit: Developer community Br @ 
-https://discord.gg/code-help-1094407116946685992
-
-:shipit: Friend Programmer @ 
-https://www.linkedin.com/in/helber-cardoso-a11a53216/
+https://discord.gg/gmtANw2n4Q
 
 
 
