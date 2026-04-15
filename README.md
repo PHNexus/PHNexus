@@ -3,9 +3,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-</p>
+<div align="center">
+    <img src="welcome022.gif"   height="350" width="750">
+<br><br>
+</div>
 
 ---
 
