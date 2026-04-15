@@ -17,16 +17,17 @@ Obsessed with performance and clean code.
 </b>
 </p>
 
+## Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,ts,js,html,css,py,docker," />
+</p>
 
 ## Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PHNexus&theme=dracula&hide_border=true" />
 </p>
 
-## Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,ts,js,html,css,py,docker," />
-</p>
+
 
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
