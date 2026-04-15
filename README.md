@@ -76,7 +76,7 @@
     <img height="25" align="left" alt="X" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 </div>
-<hr>
+<br>
 
 ##  Contact
 
