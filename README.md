@@ -18,29 +18,21 @@ Obsessed with performance and clean code.
 </p>
 
 
-## Life
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PHNexus&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PHNexus&theme=dracula&hide_border=true" />
+</p>
 
-
-
-
+## Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,ts,js,html,css,py,docker," />
+</p>
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
 
 
 
-## Skills
-
-
-
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kt](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 _Favorite programming language: JavaScript :crab:._  
 _Fun tidbits: My side interests are :paintbrush: graphics design, :man_dancing:
@@ -50,9 +42,8 @@ breakdancing, and :skateboard: skateboarding._
 
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
@@ -74,13 +65,16 @@ breakdancing, and :skateboard: skateboarding._
 
 
    ### Social Media
-
-<a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
-    <img height="25" align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/nexuszx_ofc">
-    <img height="25" align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://twitter.com/UnoPedrin">
-    <img height="25" align="left" alt="X" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
+    <img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nexuszx_ofc">
+    <img height="25" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/UnoPedrin">
+    <img height="25" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+</div>
