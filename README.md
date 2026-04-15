@@ -15,14 +15,14 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,aws" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,net,js,html,css,py,nodejs,idea" />
 </div>
 
 ---
-## 📊 Stats
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PHNexus&show_icons=true&theme=dracula&hide_border=true" />
@@ -30,28 +30,20 @@
   <img src="https://streak-stats.demolab.com?user=PHNexus&theme=dracula&hide_border=true" />
 </div>
 
-## 🧠 Skills
+
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 </div>
 
----
+
 
 ## 🛠 Tools
 
 <div align="center">
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -59,7 +51,7 @@
 ---
 
 
----
+
 
 
 
