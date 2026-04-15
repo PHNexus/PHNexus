@@ -14,8 +14,17 @@
 - ⚡ Fun fact: **I like building real things more than just watching tutorials**
 
 <!-- Social Media -->
-<p align="left">
-  <a href="https://twitter.com/UnoPedrin"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32"></a><a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32"></a><a href="https://www.instagram.com/nexuszx_ofc"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32"></a>
+<br>
+<p align="center">
+  <a href="https://twitter.com/UnoPedrin">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nexuszx_ofc">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 <br>
 
