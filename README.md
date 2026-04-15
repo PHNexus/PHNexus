@@ -32,10 +32,9 @@ Obsessed with performance and clean code.
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
 
-_Favorite programming language: JavaScript :crab:._  
+_Favorite programming language: Java ☕._  
 _Fun tidbits: My side interests are :paintbrush: graphics design, :man_dancing:
 breakdancing, and :skateboard: skateboarding._
-
 ### Software
 
 
