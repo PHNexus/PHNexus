@@ -20,14 +20,6 @@
 
 ---
 
-## 🧠 Current Focus
-
-- ☕ Java (backend & logic)
-- 🧱 Software Engineering fundamentals
-- 🌐 Building systems (bank simulator project)
-- 🤖 AI-assisted development (Copilot, agents, automation)
-
----
 
 ## 🚀 Tech Stack
 
@@ -36,18 +28,6 @@
 </p>
 
 ---
-
-## 🧩 Knowledge
-
-- 🧠 Programming logic (functions, conditionals, arrays)
-- ⚙️ JavaScript fundamentals
-- 🌐 HTML & CSS basics
-- 🖥️ Terminal & automation experience
-- 🤖 AI environment setup (local + cloud)
-- 🔧 Basic backend & system concepts
-
----
-
 
 ## 🛠 Tools
 <div align="center"><p align="center">
