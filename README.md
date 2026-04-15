@@ -1,12 +1,12 @@
 <!-- Banner -->
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-<!-- Your Info -->
+<!-- Your Info-->
 <h1 align="center">Hi 👋, I'm Nexus</h1>
 <h3 align="center">A Software Engineering Student focused on Backend, Java and Systems</h3>
 
 <!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<hr>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
 
 - 🌱 I’m currently learning **Java, Spring Boot and Software Engineering fundamentals**
 - 💬 Ask me about **JavaScript basics, logic, terminal workflows and backend learning**
@@ -51,9 +51,3 @@
 
 ### ✍️ Dev Note
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PHNexus&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=PHNexus&icon=0&color=0)](https://visitcount.itsvg.in)
