@@ -18,7 +18,7 @@
 ## 🚀 Tech Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,net,js,html,css,py,nodejs,idea" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,py,nodejs" />
 </div>
 
 ---
