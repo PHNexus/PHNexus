@@ -4,84 +4,89 @@
   <b>Nexus | Software Engineering Student 🚀</b>
 </p>
 
+<p align="center">
+  Backend • Systems • Java • AI
+</p>
 
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 Estudante de Engenharia de Software  
-- 💻 Focado em backend, sistemas e lógica de programação  
-- ⚡ Interesse em performance, arquitetura e IA aplicada  
-- 🚀 Construindo projetos reais para evoluir como desenvolvedor  
-- 🎯 Objetivo: me tornar um Software Engineer de alto nível  
+- 🎓 Software Engineering Student  
+- 💻 Focused on backend, systems and problem solving  
+- ⚡ Interested in performance, architecture and AI  
+- 🚀 Building real projects to evolve as a developer  
+- 🎯 Goal: become a high-level Software Engineer  
 
-
+---
 
 ## 🧠 Current Focus
 
-- ☕ Java (backend & lógica)
-- 🧱 Fundamentos de Software Engineering
-- 🌐 Construção de sistemas (simulador bancário)
-- 🤖 Uso de IA para desenvolvimento (Copilot, agentes, automação)
+- ☕ Java (backend & logic)
+- 🧱 Software Engineering fundamentals
+- 🌐 Building systems (bank simulator project)
+- 🤖 AI-assisted development (Copilot, agents, automation)
 
+---
 
+## 🚀 Tech Stack
 
-## 🚀 Tech Skills
-
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,git" />
-</div>
+</p>
 
 ---
 
-## 🧩 Knowledge & Experience
+## 🧩 Knowledge
 
-- 🧠 Lógica de programação (funções, condicionais, arrays)
-- ⚙️ JavaScript (fundamentos + manipulação básica)
-- 🌐 HTML & CSS (estruturação de páginas)
-- 🖥️ Experiência com terminal e automação
-- 🤖 Setup de ambiente com IA (local + cloud)
-- 🔧 Noções de sistemas e backend
+- 🧠 Programming logic (functions, conditionals, arrays)
+- ⚙️ JavaScript fundamentals
+- 🌐 HTML & CSS basics
+- 🖥️ Terminal & automation experience
+- 🤖 AI environment setup (local + cloud)
+- 🔧 Basic backend & system concepts
 
 ---
+
 
 ## 🛠 Tools
+<div align="center"><p align="center">
+  <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/IntelliJ-0D1117?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  
+</p></div>
 
-<div align="center">
-
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=PHNexus&theme=dracula&hide_border=true" />
-</div>
+</p>
 
 ---
 
-   ### Social Media
-
-<a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
-    <img height="25" align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/nexuszx_ofc">
-    <img height="25" align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://twitter.com/UnoPedrin">
-    <img height="25" align="left" alt="X" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-</div>
-<br>
-
-##  Contact
+## 🌐 Connect with me
 
 <p align="center">
-  <b>Looking for an intern or dev?</b><br>
+  <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.instagram.com/nexuszx_ofc">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://twitter.com/UnoPedrin">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+</p>
+
+---
+
+## 📩 Contact
+
+<p align="center">
+  <b>Looking for an intern or dev opportunity?</b><br>
   Let's connect 👇
 </p>
 
