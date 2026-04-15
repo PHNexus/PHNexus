@@ -4,7 +4,7 @@
   <b>Nexus | Software Engineering Student 🚀</b>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -14,7 +14,7 @@
 - 🚀 Construindo projetos reais para evoluir como desenvolvedor  
 - 🎯 Objetivo: me tornar um Software Engineer de alto nível  
 
----
+
 
 ## 🧠 Current Focus
 
@@ -23,7 +23,7 @@
 - 🌐 Construção de sistemas (simulador bancário)
 - 🤖 Uso de IA para desenvolvimento (Copilot, agentes, automação)
 
----
+
 
 ## 🚀 Tech Skills
 
@@ -54,7 +54,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
