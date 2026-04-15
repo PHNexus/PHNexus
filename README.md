@@ -22,6 +22,13 @@
 </div>
 
 ---
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PHNexus&show_icons=true&theme=dracula&hide_border=true" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=PHNexus&theme=dracula&hide_border=true" />
+</div>
 
 ## 🧠 Skills
 
@@ -51,53 +58,25 @@
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PHNexus&show_icons=true&theme=dracula&hide_border=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=PHNexus&theme=dracula&hide_border=true" />
-</div>
 
 ---
 
-## 🔥 Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
----
 
-## 🌐 Socials
-
-<div align="center">
+   ### Social Media
 
 <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="25" align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://www.instagram.com/nexuszx_ofc">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img height="25" align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-
 <a href="https://twitter.com/UnoPedrin">
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img height="25" align="left" alt="X" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-
 </div>
 
----
-
-## 🧩 Fun Facts
-
-- 🎨 Curto design e UI  
-- 🕺 Breakdance nas horas vagas  
-- 🛹 Skate  
-- ⚡ Sempre buscando performance máxima  
-
----
 
 ## 📩 Contact
 
