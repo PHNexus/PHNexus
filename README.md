@@ -9,32 +9,40 @@
 ## 👨‍💻 About Me
 
 - 🎓 Estudante de Engenharia de Software  
-- 💻 Focado em desenvolvimento Web, sistemas e performance  
-- ⚡ Obcecado por código limpo e otimização  
-- 🎯 Objetivo: me tornar um software engineer de alto nível  
+- 💻 Focado em backend, sistemas e lógica de programação  
+- ⚡ Interesse em performance, arquitetura e IA aplicada  
+- 🚀 Construindo projetos reais para evoluir como desenvolvedor  
+- 🎯 Objetivo: me tornar um Software Engineer de alto nível  
+
+---
+
+## 🧠 Current Focus
+
+- ☕ Java (backend & lógica)
+- 🧱 Fundamentos de Software Engineering
+- 🌐 Construção de sistemas (simulador bancário)
+- 🤖 Uso de IA para desenvolvimento (Copilot, agentes, automação)
 
 ---
 
 ## 🚀 Tech Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,idea,kotlin,cs,py,js" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git" />
 </div>
 
 ---
 
-<div align="center">
-<br>
-  <img src="https://streak-stats.demolab.com?user=PHNexus&theme=dracula&hide_border=true" />
-</div>
+## 🧩 Knowledge & Experience
 
+- 🧠 Lógica de programação (funções, condicionais, arrays)
+- ⚙️ JavaScript (fundamentos + manipulação básica)
+- 🌐 HTML & CSS (estruturação de páginas)
+- 🖥️ Experiência com terminal e automação
+- 🤖 Setup de ambiente com IA (local + cloud)
+- 🔧 Noções de sistemas e backend
 
-
-<div align="center">
-
-</div>
-
-
+---
 
 ## 🛠 Tools
 
@@ -48,11 +56,13 @@
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PHNexus&theme=dracula&hide_border=true" />
+</div>
 
-
-
-
+---
 
    ### Social Media
 
@@ -67,6 +77,8 @@
 </a>
 </div>
 
+
+---
 
 ## 📩 Contact
 
