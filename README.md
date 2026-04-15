@@ -23,20 +23,6 @@ Obsessed with performance and clean code.
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
 
-:shipit: Student Member @ 
-https://www.cursoemvideo.com/
-
-
-:shipit: Cyber Security @ 
-https://discord.gg/ryn7XtqE
-
-
-:shipit: Developer community Br @ 
-https://discord.gg/gmtANw2n4Q
-
-
-
-
 
 
 ## Skills
