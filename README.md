@@ -76,11 +76,9 @@
     <img height="25" align="left" alt="X" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 </div>
+<hr>
 
-
----
-
-## 📩 Contact
+##  Contact
 
 <p align="center">
   <b>Looking for an intern or dev?</b><br>
