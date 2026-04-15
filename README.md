@@ -1,17 +1,17 @@
 <!-- Banner -->
 
 <!-- Your Info-->
-<h1 align="center">Hi 👋, I'm Nexus</h1>
+<h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A Software Engineering Student focused on Backend, Java and Systems</h3>
 
 <!-- Programmer GIF -->
 <hr>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
 
-- 🌱 I’m currently learning **Java, Spring Boot and Software Engineering fundamentals**
-- 💬 Ask me about **JavaScript basics, logic, terminal workflows and backend learning**
-- 🖥️ I’ve worked with **Linux, SSH, local AI environments and Ubuntu LTS server setup**
-- ⚡ Fun fact: **I like building real things more than just watching tutorials**
+- 🌱 Currently learning **Java, Spring Boot and core Software Engineering concepts**
+- 💬 Ask me about **JavaScript fundamentals, programming logic and backend basics**
+- 🖥️ Experience with **Linux, SSH, local AI setups and Ubuntu LTS server environments**
+- ⚡ I prefer **building real projects over just consuming tutorials**
 
 <!-- Social Media -->
 <br>
