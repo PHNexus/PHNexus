@@ -18,7 +18,7 @@
 - 🚀 Building real projects to evolve as a developer  
 - 🎯 Goal: become a high-level Software Engineer  
 
----
+
 
 
 ## 🚀 Tech Stack
@@ -27,7 +27,6 @@
   <img src="https://skillicons.dev/icons?i=java,js,html,css,git" />
 </p>
 
----
 
 ## 🛠 Tools
 <div align="center"><p align="center">
@@ -37,7 +36,6 @@
   
 </p></div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -48,16 +46,15 @@
 ---
 
 ## 🌐 Connect with me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 5px;" />
   </a>
   <a href="https://www.instagram.com/nexuszx_ofc">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin: 5px;" />
   </a>
   <a href="https://twitter.com/UnoPedrin">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" style="margin: 5px;" />
   </a>
 </p>
 
