@@ -9,6 +9,9 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
 
 - 🌱 Currently learning **Java, Spring Boot and core Software Engineering concepts**
+- 💬 Ask me about **JavaScript fundamentals, programming logic and backend basics**
+- 🖥️ Experience with **Linux, SSH, local AI setups and Ubuntu LTS server environments**
+- ⚡ I prefer **building real projects over just consuming tutorials**
 
 
 # 💻 Skills:
