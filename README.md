@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <!-- Your Info-->
-<h1 align="center">Hi 👋, I'm Mark</h1>
+<h1 align="center">Hi, I'm Mark</h1>
 <h3 align="center">A Software Engineering Student focused on Backend, Java and Systems</h3>
 
 <!-- Programmer GIF -->
