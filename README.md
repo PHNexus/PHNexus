@@ -43,7 +43,13 @@
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-0B0F19?style=for-the-badge&logoColor=white)
 ![LM%20Studio](https://img.shields.io/badge/LM%20Studio-111111?style=for-the-badge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=PHNexus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PHNexus&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PHNexus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PHNexus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PHNexus&theme=dark&hide_border=false)<br/>
