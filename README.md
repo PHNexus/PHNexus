@@ -10,20 +10,6 @@
 
 - 🌱 Currently learning **Java, Spring Boot and core Software Engineering concepts**
 
-<!-- Social Media -->
-<br>
-<p align="center">
-  <a href="https://x.com/Nexuszxx">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mark0s_in/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-<br>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,7 +26,20 @@
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-0B0F19?style=for-the-badge&logoColor=white)
 ![LM%20Studio](https://img.shields.io/badge/LM%20Studio-111111?style=for-the-badge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+<!-- Social Media -->
+<br>
+<p align="center">
+  <a href="https://x.com/Nexuszxx">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mark0s_in/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PHNexus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PHNexus&theme=dark&hide_border=false)<br/>
