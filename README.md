@@ -6,11 +6,6 @@
 
 <!-- Programmer GIF -->
 <hr>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
-
-- 🌱 Currently learning **Java, Spring Boot and core Software Engineering concepts**
-- 🖥️ Experience with **Linux, SSH, local AI setups and Ubuntu LTS server environments**
-
 
 # 💻 Skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
