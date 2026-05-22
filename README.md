@@ -26,7 +26,7 @@
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-0B0F19?style=for-the-badge&logoColor=white)
 ![LM%20Studio](https://img.shields.io/badge/LM%20Studio-111111?style=for-the-badge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<p>Ola</p>
+<h4>Ola</h4>
 <!-- Social Media -->
 <br>
 <p align="center">
