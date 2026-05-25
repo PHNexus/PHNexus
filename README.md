@@ -56,3 +56,7 @@ Me chamo Marcos Vinicius, tenho 16 anos
   <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PHNexus&layout=compact&theme=github_dark&hide_border=" />
 </div>
 
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1D20,100:5E5F5B&height=120&section=footer&animation=fadeIn" />
