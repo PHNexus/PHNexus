@@ -2,12 +2,10 @@
 
 <!-- Your Info-->
 <h1 align="center">Hi, I'm Mark</h1>
-<h3 align="center">A Software Engineering Student focused on Backend, Java and Systems</h3>
 
-<!-- Programmer GIF -->
 <hr>
 
-# 💻 Skills
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
