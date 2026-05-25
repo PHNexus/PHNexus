@@ -7,7 +7,7 @@
 <!-- Programmer GIF -->
 <hr>
 
-# 💻 Skills:
+# 💻 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,6 +22,7 @@
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-0B0F19?style=for-the-badge&logoColor=white)
 ![LM%20Studio](https://img.shields.io/badge/LM%20Studio-111111?style=for-the-badge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<hr>
 <!-- Social Media -->
 <br>
 <p align="center">
@@ -36,9 +37,8 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PHNexus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PHNexus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PHNexus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PHNexus )
+
+
 
 
