@@ -1,10 +1,9 @@
 <!-- Banner -->
 
 <!-- Your Info-->
-<h1 align="center">Hi, I'm Mark</h1>
+<h1>Hi, I'm Mark</h1>
 
-<hr>
-
+<h3 align="center">Backend Stack</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -17,8 +16,7 @@
 
 
 <hr>
-<!-- Social Media -->
-<br>
+<h3 align="center">Social Media</h3>
 <p align="center">
   <a href="https://x.com/Nexuszxx">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
