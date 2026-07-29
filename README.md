@@ -26,8 +26,6 @@ Marcos Vinicius
 
 <div align="center">
 
-### 🤖 Linguagens e Tecnologias
-
 <br/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,22 +38,5 @@ Marcos Vinicius
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
 
 <br/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=PHNexus&show_icons=true&theme=github_dark&hide_border=" />
-</div>
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1D20,100:5E5F5B&height=120&section=footer&animation=fadeIn" />
