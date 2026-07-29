@@ -1,7 +1,7 @@
 
 <div align="center">
 
-**`Desenvolvedor Backend`**
+**`Back-end Developer`**
 
 Marcos Vinicius 
 
