@@ -4,12 +4,7 @@ Marcos
   
 **`Back-end Developer`**
 
-
-<br/>
-
 <div align="center">
-
-<br/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -18,6 +13,7 @@ Marcos
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+<br/>
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">
