@@ -1,8 +1,21 @@
-
+<pre align="center">
+▄▄▄▄▄▄▄▄▄    ▄▄▄▄▄▄       ▄▄▄▄▄▄▄▄▄▄▄▄    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    ▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄
+▄        ▀▄▄▀      ▀▄   ▄▀            ▀▄  ▄              ▀▄  ▄      ▓  ▄      █
+█         ▐▌        ▐▌ ▐▌              ▐▌ █               ▐▌ █      ▒  ▒     ▒░
+▓                   ░█ ▓               ░█ ▓      ▒▀▀░     ░█ ▓      ░  ░     ░▒
+▒      █▀█  ░▀▄      █ ▒      █▀▀▄      █ ▒      ░  ▒     ▐▌ ▒      █  █     ▐▌
+░      █ █┼┼▒ █    ┼┼█ ░      █▄▄▒    ┼┼█ ░      ▀▀▀▀    ▄▀  ░      █▄▄█    ▄▀ 
+█┼    ┼█ █┼┼▓ █    ┼┼█ █┼            ┼┼┼█ █┼     █▀▀▀▄   ▀▄  █┼            ▒   
+█┼  ┼┼┼█ ▀▀▀▀ █┼  ┼┼┼█ █┼┼   ┼█▀▀█┼   ┼┼█ █┼┼   ┼░   █    ▐▌ █┼    ┼█▀▀█┼   ▀▄ 
+█┼┼┼┼┼┼░      █┼┼┼┼┼┼░ █┼┼┼┼┼┼░  █┼┼┼ ┼┼░ █┼┼┼┼┼┼░   ░   ┼┼░ █┼┼  ┼┼░  █┼    ▐▌
+█┼┼┼┼┼┼▒      █┼┼┼ ┼┼▒ █┼┼┼┼┼┼▒  █┼┼┼┼┼┼▒ █┼┼┼┼┼┼▒   ▒┼┼ ┼┼▒ █┼┼┼┼┼┼▒  █┼┼┼ ┼┼▒
+█┼┼┼┼┼┼▓      █┼┼┼┼┼┼▓ █┼┼┼┼┼┼▓  █┼┼┼┼┼┼▓ █┼┼┼┼┼┼▓   ▓┼┼┼┼┼▓ █┼┼┼┼┼┼▓  █┼┼┼┼┼┼▓
+▀▀▀▀▀▀▀▀      ▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀
+</pre>
 <div align="center">
 Mark
 
-**`Back-end Developer`**
+**`Back-end Developer · Systems Tinkerer · Open Source Builder`**
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=e6edf3&center=true&vCenter=true&width=600&lines=Scalable+Systems+%7C+Infrastructure+Automation;Arch+Linux+%7C+Java+%7C+Spring;Backend+Dev+%26+DevOps+Practitioner;Building+tools+people+actually+use)](https://github.com/vinayydv3695)
 
