@@ -13,14 +13,16 @@
   
 <br>
 
-<code>▶ ./languages-and-frameworks.sh</code></summary>
+<details open>
+<summary><code>▼ ./languages-and-frameworks.sh</code></summary>
 <br>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 <br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+</details>
 
-<code>▶ ./databases-and-infrastructure.sh</code></summary>
-<br>
+<details open>
+<summary><code>▼ ./databases-and-infrastructure.sh</code></summary>
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -30,9 +32,10 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
 <br>
+</details>
 
-<code>▶ ./dev-environment-and-tooling.sh</code></summary>
-<br>
+<details open>
+<summary><code>▼ ./dev-environment-and-tooling.sh</code></summary>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -42,7 +45,9 @@
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <br>
+</details>
 
+</div>
 
 <br>
 <p align="center">
