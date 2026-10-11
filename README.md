@@ -67,7 +67,13 @@
 <div align="right">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PHNexus&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&rank_icon=github)](https://github.com/PHNexus)
+</div>
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PHNexus&theme=dark&hide_border=true&background=161b22&ring=8b949e&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d)](https://github.com/PHNexus)
+
+</div>
+<div align="left">
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=PHNexus&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&langs_count=8)](https://github.com/PHNexus)
 
