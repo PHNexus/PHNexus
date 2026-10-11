@@ -64,25 +64,16 @@
   
 ### `$ git log --stat`
 
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/PHNexus">
+   ![](https://raw.githubusercontent.com/PHNexus/PHNexus/main/profile-3d-contrib/profile-night-green.svg)
+
+  <a href="https://github.com/PHNexus">
         <img src="https://github-stats-extended.vercel.app/api?username=PHNexus&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&rank_icon=github" />
-      </a>
-      <br>
-      <a href="https://github.com/PHNexus">
+   
+   <a href="https://github.com/PHNexus">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=PHNexus&theme=dark&hide_border=true&background=161b22&ring=8b949e&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d" />
-      </a>
-      <br>
-      <a href="https://github.com/PHNexus">
+  
+  <a href="https://github.com/PHNexus">
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PHNexus&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&langs_count=8" />
-      </a>
-    </td>
-    <td valign="middle" align="center">
-      <img alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
-    </td>
-  </tr>
-</table>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1D20,100:5E5F5B&height=120&section=footer&animation=fadeIn" />
