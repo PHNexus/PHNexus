@@ -22,8 +22,8 @@
 
 <code>mark@archlinux:~$ ls -la ~/tech-stack</code>
 
-<details>
-<summary><code>▶ ./databases-and-infrastructure.sh</code></summary>
+<code>▶ ./databases-and-infrastructure.sh</code></summary>
+<br>
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -32,11 +32,10 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
-<br><br>
-</details>
+<br>
 
-<details>
-<summary><code>▶ ./dev-environment-and-tooling.sh</code></summary>
+<code>▶ ./dev-environment-and-tooling.sh</code></summary>
+<br>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -45,8 +44,8 @@
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<br><br>
-</details>
+<br>
+
 
 <br>
 <p align="center">
