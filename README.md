@@ -1,13 +1,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1D20,100:5E5F5B&height=120&section=header&animation=fadeIn" />
-<pre align="center">
- ┌─────┐┐──┐┐     ┌───┐┐   ┌─────┐┐   ┌──┐┐┌──┐┐
-│▓▓▓▓▓└─▓▓└─┐┐ ┌─┘▓▓▓└─┐┐ │▓▓▓▓▓└─┐┐ │▓▓│││▓▓││
-│░░┌─┐░░─┐░░││ │░░┐-┌░░││ │░┌─┐░┌─┘  │░░└─┘░┌┘└
-│▓▓│││▓▓││▓▓││ │▓▓└─┘▓▓││ │▓└─┘▓└─┐┐ │▓▓▓▓▓┌┘┐ 
-│░░│││░░││░░││ │░░░░░░░││ │░░░░░░░││ │░░┌─┐░└┐┐
-│▒▒│││▒▒││▒▒││ │▒▒┌─┐▒▒││ │▒┌─┐▒▒▒││ │▒▒│││▒▒││
-└──┘ └── └──┘└ └──┘└└──┘└ └─┘ └───┘└ └──┘└└──┘└
-</pre>
+
 <div align="center">
 <br>
   
@@ -16,14 +8,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=e6edf3&center=true&vCenter=true&width=600&lines=Scalable+Systems+%7C+Infrastructure+Automation;Arch+Linux+%7C+Java+%7C+Spring;Backend+Dev+%26+DevOps+Practitioner;Building+tools+people+actually+use)](https://github.com/vinayydv3695)
 
 <div align="center">
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
+  
 <code>mark@archlinux:~$ ls -la ~/tech-stack</code>
+  
+<br>
 
-<details>
-<summary><code>▶ ./databases-and-infrastructure.sh</code></summary>
+<details open>
+<summary><code>▼ ./languages-and-frameworks.sh</code></summary>
+<br>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<br>
+</details>
+
+<details open>
+<summary><code>▼ ./databases-and-infrastructure.sh</code></summary>
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -32,11 +31,11 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
-<br><br>
+<br>
 </details>
 
-<details>
-<summary><code>▶ ./dev-environment-and-tooling.sh</code></summary>
+<details open>
+<summary><code>▼ ./dev-environment-and-tooling.sh</code></summary>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -45,8 +44,10 @@
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<br><br>
+<br>
 </details>
+
+</div>
 
 <br>
 <p align="center">
@@ -74,9 +75,9 @@
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHNexus/PHNexus/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PHNexus/PHNexus/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PHNexus/PHNexus/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHNexus/PHNexus/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PHNexus/PHNexus/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PHNexus/PHNexus/output/github-snake.svg">
 </picture>
 
 </p>
