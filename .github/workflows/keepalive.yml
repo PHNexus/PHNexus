@@ -1,0 +1,23 @@
+name: Keep Alive
+
+on:
+  schedule:
+    - cron: "0 0 1 */2 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update keepalive file
+        run: |
+          date -u +"%Y-%m-%d %H:%M:%S UTC" > .keepalive
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .keepalive
+          git commit -m "chore: keepalive $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push
