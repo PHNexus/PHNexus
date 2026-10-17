@@ -58,11 +58,11 @@
 
 <p align="center">
   <a href="https://github.com/PHNexus">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=PHNexus&show_icons=true&theme=github_dark&hide_border=true&cacheSeconds=60&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&rank_icon=github" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=PHNexus&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&rank_icon=github" />
   </a>
   &nbsp;
   <a href="https://github.com/PHNexus">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PHNexus&theme=dark&hide_border=true&background=161b22&ring=8b949e&cacheSeconds=60&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=PHNexus&theme=dark&hide_border=true&background=161b22&ring=8b949e&cacheSeconds=60&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d" />
   </a>
 </p>
 
