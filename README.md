@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&section=header&reversal=false&text=Mark&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
-
 <div align="center">
-<br>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=e6edf3&center=true&vCenter=true&width=600&lines=Scalable+Systems+%7C+Infrastructure+Automation;Arch+Linux+%7C+Java+%7C+Spring;Backend+Dev+%26+DevOps+Practitioner;Building+tools+people+actually+use)](https://github.com/vinayydv3695)
 
