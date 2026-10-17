@@ -67,6 +67,9 @@ _My side interests are :penguin: Linux, and :computer: servers._
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   </a>
+  <a href="https://discord.gg/SEU_LINK_AQUI](https://discord.com/users/878890042934849556)">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 <br/>
 <p align="center">
     <b>Looking for a software engineering intern?
