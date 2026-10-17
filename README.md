@@ -5,12 +5,12 @@
 
 <p align="center">
     <b>Software engineering student and Linux enthusiast.</b><br>
-    Passionate about crafting interactive, high-performance web experiences<br>
-    <img src="https://api.iconify.design/lucide:palette.svg?color=%23888888" width="14" height="14" align="center" alt="graphics"/> graphics &nbsp;•&nbsp;
-    <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23888888" width="14" height="14" align="center" alt="games"/> games &nbsp;•&nbsp;
-    <img src="https://api.iconify.design/lucide:globe.svg?color=%23888888" width="14" height="14" align="center" alt="websites"/> websites &nbsp;•&nbsp;
-    <img src="https://api.iconify.design/lucide:code-2.svg?color=%23888888" width="14" height="14" align="center" alt="creative coding"/> creative coding<br><br>
-    <b>Driven by clean code, security, and digital innovation.</b>
+    Passionate about building robust systems, security, and performance<br>
+    <img src="https://api.iconify.design/lucide:terminal.svg?color=%23888888" width="14" height="14" align="center" alt="systems"/> systems &nbsp;•&nbsp;
+    <img src="https://api.iconify.design/lucide:shield-check.svg?color=%23888888" width="14" height="14" align="center" alt="security"/> security &nbsp;•&nbsp;
+    <img src="https://api.iconify.design/lucide:cpu.svg?color=%23888888" width="14" height="14" align="center" alt="low-level"/> low-level &nbsp;•&nbsp;
+    <img src="https://api.iconify.design/lucide:server.svg?color=%23888888" width="14" height="14" align="center" alt="backend"/> backend<br><br>
+    <b>Driven by clean code, efficiency, and digital innovation.</b>
 </p>
 
 <p align="center">
