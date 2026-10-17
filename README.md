@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/vinayydv3695">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=e6edf3&center=true&vCenter=true&width=600&lines=Java+%7C+Linux+%7C+Cybersecurity+%7C+Hardware;Focused+on+building+tools+people+actually+use;Obsessed+with+speed%2C+efficiency%2C+and+protection;Creating+secure+and+modern+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=e6edf3&center=true&vCenter=true&width=600&lines=Java+%7C+SpringBoot+%7C+Linux+%7C+Hardware;Focused+on+building+tools+people+actually+use;Obsessed+with+speed%2C+efficiency%2C+and+protection;Creating+secure+and+modern+solutions" alt="Typing SVG" />
   </a>
 </p>
 
