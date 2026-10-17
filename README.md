@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-    <b>Software engineering student and aspiring software entrepreneur.</b><br>
+    <b>Software engineering student and linux enthusiast.</b><br>
     Passionate about crafting interactive, high-performance web experiences<br>
     <img src="https://api.iconify.design/lucide:palette.svg?color=%23888888" width="14" height="14" align="center" alt="graphics"/> graphics &nbsp;•&nbsp;
     <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23888888" width="14" height="14" align="center" alt="games"/> games &nbsp;•&nbsp;
