@@ -58,20 +58,26 @@
 
 _Favorite programming language: Java :coffee:_  
 _My side interests are :penguin: Linux, and :computer: servers._
-
+ <hr>
+ 
    ### Social Media
 </div>
 <p align="center">
  <a href="https://www.instagram.com/mark0s_in/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  </a>
-  <a href="https://discord.gg/SEU_LINK_AQUI](https://discord.com/users/878890042934849556)">
+  <a href="https://discord.com/users/878890042934849556">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<br/>
-<p align="center">
-    <b>Looking for a software engineering intern?
+  </a>
+  <a href="https://wa.me/553384557839">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:mark.enginnersoftware@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    <br>
+    <br>
+<b>Looking for a software engineering intern?
         <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">Let's connect and talk!</a>
     </b>
 </p>
