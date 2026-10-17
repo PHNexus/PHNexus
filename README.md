@@ -64,6 +64,3 @@
 </p>
 
 </p>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1D20,100:5E5F5B&height=120&section=footer&animation=fadeIn" />
