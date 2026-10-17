@@ -78,7 +78,7 @@ _My side interests are :penguin: Linux, and :computer: servers._
     <br>
     <br>
 <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">Let's connect in Linkedin and talk!</a>
+        <a href="https://www.linkedin.com/in/marcos-vinicius-86706b262/">Let's connect and talk!</a>
     </b>
 </p>
 
