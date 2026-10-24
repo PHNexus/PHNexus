@@ -3,13 +3,14 @@
 
 </div>
 
+
 <p align="center">
     <b>Software engineering student and Linux enthusiast.</b><br>
-    Passionate about building robust systems, security, and performance<br>
-    <img src="https://api.iconify.design/lucide:terminal.svg?color=%23888888" width="14" height="14" align="center" alt="systems"/> systems &nbsp;•&nbsp;
-    <img src="https://api.iconify.design/lucide:shield-check.svg?color=%23888888" width="14" height="14" align="center" alt="security"/> security &nbsp;•&nbsp;
-    <img src="https://api.iconify.design/lucide:cpu.svg?color=%23888888" width="14" height="14" align="center" alt="low-level"/> low-level &nbsp;•&nbsp;
-    <img src="https://api.iconify.design/lucide:server.svg?color=%23888888" width="14" height="14" align="center" alt="backend"/> backend<br><br>
+    Passionate about building robust systems, security, and performance<br><br>
+    <img src="https://api.iconify.design/lucide/terminal.svg?color=%23888888" width="14" height="14" alt="Systems" /> systems &nbsp;•&nbsp;
+    <img src="https://api.iconify.design/lucide/shield-check.svg?color=%23888888" width="14" height="14" alt="Security" /> security &nbsp;•&nbsp;
+    <img src="https://api.iconify.design/lucide/cpu.svg?color=%23888888" width="14" height="14" alt="Low-level" /> low-level &nbsp;•&nbsp;
+    <img src="https://api.iconify.design/lucide/server.svg?color=%23888888" width="14" height="14" alt="Backend" /> backend<br><br>
     <b>Driven by clean code, efficiency, and digital innovation.</b>
 </p>
 
