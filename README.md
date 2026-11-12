@@ -6,10 +6,13 @@
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=e6edf3&center=true&vCenter=true&width=750&lines=Software+Engineering+%7C+Java+%7C+Spring+Boot+%7C+SQL;Linux+%7C+Network+Engineering+%7C+Python+%7C+Bash" alt="Typing SVG" /> <br>
+  <b>Software engineering student and Linux enthusiast.</b><br>
+    Passionate about building robust systems, security, and performance<br><br>
     <img src="https://api.iconify.design/lucide/terminal.svg?color=%23888888" width="14" height="14" alt="Systems" /> systems &nbsp;•&nbsp;
     <img src="https://api.iconify.design/lucide/shield-check.svg?color=%23888888" width="14" height="14" alt="Security" /> security &nbsp;•&nbsp;
     <img src="https://api.iconify.design/lucide/cpu.svg?color=%23888888" width="14" height="14" alt="Low-level" /> low-level &nbsp;•&nbsp;
     <img src="https://api.iconify.design/lucide/server.svg?color=%23888888" width="14" height="14" alt="Backend" /> backend<br><br>
+     <b>Driven by clean code, efficiency, and digital innovation.</b>
 </p>
 
 
