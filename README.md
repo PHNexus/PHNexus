@@ -78,12 +78,18 @@ _My side interests are :penguin: Linux, and :computer: servers._
     </b>
 </p>
 
-<div align="center">
+ <div align="center">
     
   #### `$ git log --stat`
-   ![](https://raw.githubusercontent.com/PHNexus/PHNexus/main/profile-3d-contrib/profile-night-green.svg)
+  
+  <details>
+    <summary>Click to view my stats</summary>
+    <br>
    
-<div/>
+   ![](https://raw.githubusercontent.com/PHNexus/PHNexus/main/profile-3d-contrib/profile-night-green.svg)
+  </details>
+   
+</div>
 
 <p align="center">
   <picture>
